@@ -20,7 +20,7 @@ Para executar este projeto, você precisará de um servidor local que suporte PH
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone [https://github.com/jvdreissig31/teste-formulario1.git](https://github.com/jvdreissig31/teste-formulario1.git)
     ```
 2.  **Mova a pasta para o servidor:**
     Coloque a pasta do projeto dentro do diretório `htdocs` do seu XAMPP.
